@@ -56,21 +56,26 @@ npm run dev
 
 ## Technologie-Stack :camera:
 
-          {/* Technologie-Badges */}
-          <Flex gap="2" mt="3" wrap="wrap">
-            <Badge color="green">React.js</Badge>
-            <Badge color="blue">Node.js</Badge>
-            <Badge color="purple">MongoDB</Badge>
-            <Badge color="orange">Tesseract.js</Badge>
-            <Badge color="yellow">AWS S3</Badge>
-            <Badge color="teal">AWS EC2</Badge>
-            <Badge color="gray">Express.js</Badge>
-            <Badge color="red">ScraperAPI</Badge>
-            <Badge color="violet">Axios</Badge>
-            <Badge color="pink">Docker</Badge>
-            <Badge color="cyan">Radix UI</Badge>
-            <Badge color="indigo">Git & GitHub</Badge>
-          </Flex>
+# Pokémon Karten-Scanner App :game_die:
+
+Dies ist eine **Pokémon Karten-Scanner App**, mit der du deine Pokémon-Karten scannen und katalogisieren kannst! :camera_flash:
+
+## 🚀 Technologien
+
+Hier sind die Technologien, die in diesem Projekt verwendet werden:
+
+![React.js](https://img.shields.io/badge/React.js-34D399?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-2684FF?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4B0082?style=for-the-badge&logo=mongodb&logoColor=white)
+![Tesseract.js](https://img.shields.io/badge/Tesseract.js-F97316?style=for-the-badge&logo=tesseract&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS_S3-F59E0B?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-14B8A6?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-6B7280?style=for-the-badge&logo=express&logoColor=white)
+![ScraperAPI](https://img.shields.io/badge/ScraperAPI-EF4444?style=for-the-badge&logo=scraperapi&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-8B5CF6?style=for-the-badge&logo=axios&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-EC4899?style=for-the-badge&logo=docker&logoColor=white)
+![Radix UI](https://img.shields.io/badge/Radix_UI-06B6D4?style=for-the-badge&logo=radixui&logoColor=white)
+![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-6366F1?style=for-the-badge&logo=git&logoColor=white)
 
 ## Beitrag :dancers:
 
