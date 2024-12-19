@@ -56,12 +56,6 @@ npm run dev
 
 ## Technologie-Stack :camera:
 
-# Pokémon Karten-Scanner App :game_die:
-
-Dies ist eine **Pokémon Karten-Scanner App**, mit der du deine Pokémon-Karten scannen und katalogisieren kannst! :camera_flash:
-
-## 🚀 Technologien
-
 Hier sind die Technologien, die in diesem Projekt verwendet werden:
 
 ![React.js](https://img.shields.io/badge/React.js-34D399?style=for-the-badge&logo=react&logoColor=white)
